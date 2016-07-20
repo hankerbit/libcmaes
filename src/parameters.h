@@ -24,7 +24,6 @@
 
 #include "eo_matrix.h"
 #include "genopheno.h"
-#include "llogging.h"
 #include <string>
 #include <cmath>
 #include <limits>
